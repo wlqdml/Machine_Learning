@@ -1,1 +1,2 @@
-# Credit_Card_Fraud_Detection
+# 
+## [Oversampling](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)
