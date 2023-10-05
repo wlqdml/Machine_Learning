@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 - Introduction: 
-- [Data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- Data [[Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)]
 - Exploratory data analysis and oversampling [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)]
 - Hyperparameter Tuning [[Notenook]()]
 
