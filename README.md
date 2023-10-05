@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection
-- Introduction: 
+- Introduction:
+  - This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions.
+  - The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+  - It contains only numerical input variables which are the result of a [PCA transformation](https://en.wikipedia.org/wiki/Principal_component_analysis)
 - Data [[Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)]
 - Exploratory data analysis and oversampling [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)]
 - Hyperparameter Tuning [[Notenook]()]
