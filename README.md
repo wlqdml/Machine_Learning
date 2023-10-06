@@ -19,7 +19,7 @@
 - Data treatment and feature engineering [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_data.ipynb)]
   - More about TFIDF [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/tfidf.ipynb)]
 - Feature selection (Iterative Reduction, Boruta) [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_feature_selection.ipynb)]
-  - [Random Noise Feature Test](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb)
+  - Random Noise Feature Test [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb)]
 
 
 
