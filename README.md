@@ -18,7 +18,7 @@
 - Data [[Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)]
 - Data treatment and feature engineering [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_data.ipynb)]
   - More about TFIDF [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/tfidf.ipynb)]
-- Feature selection [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_featureselection.ipynb)]
+- Feature selection [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_feature_selection.ipynb)]
   - Boruta approach
 
 
