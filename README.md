@@ -6,7 +6,7 @@
   - Feature 'Class' is the target feature variable and it takes value 1 in case of fraud and 0 otherwise.
 - Data [[Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)]
 - Exploratory data analysis and oversampling [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)]
-- Hyperparameter Tuning [[Notenook]()]
+- Hyperparameter Tuning [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_hyperparameter.ipynb)]
 
 
 
