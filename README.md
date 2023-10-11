@@ -5,8 +5,8 @@
   - It contains only numerical input variables which are the result of a [PCA transformation](https://en.wikipedia.org/wiki/Principal_component_analysis).
   - Feature 'Class' is the target feature variable and it takes value 1 in case of fraud and 0 otherwise.
 - Data [[Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)]
-- Exploratory data analysis and oversampling [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)]
-- Hyperparameter Tuning [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_hyperparameter.ipynb)]
+- [Exploratory data analysis and oversampling](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)
+- [Hyperparameter Tuning](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_hyperparameter.ipynb)
 
 
 
@@ -16,10 +16,10 @@
   - IMDB dataset having 50,000 movie reviews for natural language processing or Text analytics.
   - The goal is to predict the "sentiment" class which takes value "positive" or "negative".
 - Data [[Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)]
-- Data treatment and feature engineering [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_data.ipynb)]
-  - More about TFIDF [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/tfidf.ipynb)]
-- Feature selection (Iterative Reduction, Boruta) [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_feature_selection.ipynb)]
-  - Random Noise Feature Test [[Notenook](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb)]
+- [Data treatment and feature engineering](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_data.ipynb)
+  - [More about creating features using TFIDF](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/tfidf.ipynb)
+- [Feature selection (Iterative Reduction, Boruta)](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_feature_selection.ipynb)
+  - [Random noise feature test](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb): 
 
 
 
