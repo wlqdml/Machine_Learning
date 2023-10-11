@@ -20,7 +20,7 @@
   - [**More about creating features using TFIDF**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/tfidf.ipynb)
 - [**Feature selection (Iterative Reduction, Boruta)**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_feature_selection.ipynb)
   - [**Random noise feature test**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb): evaluate feature selection methods, according to whether they are able to identify random noise feautures.
-  - [**Boruta analysis**](): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity)
+  - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity)
 
 
 
