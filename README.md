@@ -8,9 +8,6 @@
 - [**Exploratory data analysis and oversampling**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)
 - [**Hyperparameter Tuning**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_hyperparameter.ipynb)
 
-
-
-
 # IMDB Dataset of 50K Movie Reviews
 - Introduction:
   - IMDB dataset having 50,000 movie reviews for natural language processing or Text analytics.
@@ -23,5 +20,14 @@
   - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity)
 
 
-
+# Linear Classifier (perceptron) using NLP data 
+- Introduction:
+  - The training/testing datasets contains reviews written by Amazon customers for various food products. The reviews have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
+  - The goal is to design a classifier for sentiment analysis.
+- [**Build several linear classifiers based on three algorithms**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_linear_classifiers.ipynb):
+  - Perceptron, Average Perceptron, Pegasos.
+  - Hyperparameter tuning
+  - Feature engineering
+  - Overfitting
+  - NLP data treatments (stopwords, bag of words) 
 
