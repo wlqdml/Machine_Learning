@@ -20,7 +20,7 @@
   - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity)
 
 
-# Linear Classifier (perceptron) using NLP data 
+# Linear classifier for sentiment analysis
 - Introduction:
   - The training/testing datasets contains reviews written by Amazon customers for various food products. The reviews have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
   - The goal is to design a classifier for sentiment analysis.
