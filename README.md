@@ -24,7 +24,7 @@
 - Introduction:
   - The training/testing datasets contains reviews written by Amazon customers for various food products. The reviews have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
   - The goal is to design a classifier for sentiment analysis.
-- [**Build several linear classifiers based on three algorithms**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_linear_classifiers.ipynb):
+- [**Build several linear classifiers based on three algorithms**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_linear_classifiers.ipynb)
   - Perceptron, Average Perceptron, Pegasos.
   - Hyperparameter tuning
   - Feature engineering
@@ -32,9 +32,12 @@
   - NLP data treatments (stopwords, bag of words) 
 
 
-# SVM models for MNIST Handwritten Digit Classification
+# SVM and Multinomial (Softmax) Regression models for MNIST Handwritten Digit Classification
 - Introduction:
   -  The [MNIST](https://academictorrents.com/details/323a0048d87ca79b68f12a6350a57776b6a3b7fb) (Mixed National Institute of Standards and Technology) database contains 60,000 training digits and 10,000 testing digits, all of which have been size-normalized and centered in a fixed-size image of 28 × 28 pixels.
   -  The goal is to predict the label (0-9) of the digit.
- - [**Build classification models based on SVM(Support Vector Machine)**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/mnist_SVM.ipynb)
-
+ - [**Build classification models based on SVM(Support Vector Machine) and  Multinomial (Softmax) Regression**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/mnist_SVM.ipynb)
+  - Linear SVM
+  - Polynomial SVM 
+  - Radial basis function SVM
+  - Multinomial (Softmax) Regression
