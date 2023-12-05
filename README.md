@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection using Gradient Boosting
 - Introduction:
   - This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions.
   - The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
@@ -8,7 +8,7 @@
 - [**Exploratory data analysis and oversampling**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_EAD_oversampling.ipynb)
 - [**Hyperparameter Tuning**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/credit_card_fraud_hyperparameter.ipynb)
 
-# IMDB Dataset of 50K Movie Reviews
+# Sentimential Analysis using IMDB Reviews (TFIDF + Gradient Boosting)
 - Introduction:
   - IMDB dataset having 50,000 movie reviews for natural language processing or Text analytics.
   - The goal is to predict the "sentiment" class which takes value "positive" or "negative".
@@ -19,8 +19,7 @@
   - [**Random noise feature test**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb): evaluate feature selection methods, according to whether they are able to identify random noise feautures.
   - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity)
 
-
-# Linear Classifier for Sentiment Analysis
+# A Linear Classifier for Sentiment Analysis
 - Introduction:
   - The training/testing datasets contains reviews written by Amazon customers for various food products. The reviews have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
   - The goal is to design a classifier for sentiment analysis.
@@ -31,7 +30,6 @@
   - Overfitting
   - NLP data treatments (stopwords, bag of words) 
 
-
 # SVM and Multinomial (Softmax) Regression models for MNIST Handwritten Digit Classification
 - Introduction:
   -  The [MNIST](https://academictorrents.com/details/323a0048d87ca79b68f12a6350a57776b6a3b7fb) (Mixed National Institute of Standards and Technology) database contains 60,000 training digits and 10,000 testing digits, all of which have been size-normalized and centered in a fixed-size image of 28 × 28 pixels.
@@ -41,3 +39,14 @@
   - Polynomial SVM 
   - Radial basis function SVM
   - Multinomial (Softmax) Regression
+
+# A Supervised Training Loop for a Perceptron and Binary Classification (Toy Data)
+- Introduction:
+  - The goal is to design a binary classifier using a generated toy dataset in PyTorch
+- [**Supervised Training Loop using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_linear_classifiers.ipynb)
+  - Model: nn.Linear()
+  - Loss (Binary Cross-Entropy): nn.BCELoss()
+  - Optimizer: optim.Adam()
+  - Visualization of the training (Change in the loss and the hyperplain)
+
+
