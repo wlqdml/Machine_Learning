@@ -44,7 +44,7 @@
 - Introduction:
   - The goal is to design a binary classifier using a generated toy dataset in PyTorch
 - [**Supervised Training Loop using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_linear_classifiers.ipynb)
-  - Model: nn.Linear()
+  - Model: torch.nn.Linear()
   - Loss (Binary Cross-Entropy): nn.BCELoss()
   - Optimizer: optim.Adam()
   - Visualization of the training - changes in the loss and the hyperplain (an [application](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_contour.ipynb) of Axes.contour)
