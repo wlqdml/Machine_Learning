@@ -47,6 +47,6 @@
   - Model: nn.Linear()
   - Loss (Binary Cross-Entropy): nn.BCELoss()
   - Optimizer: optim.Adam()
-  - Visualization of the training (Change in the loss and the hyperplain)
+  - Visualization of the training - changes in the loss and the hyperplain (an [application](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_contour.ipynb) of Axes.contour)
 
 
