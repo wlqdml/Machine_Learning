@@ -42,7 +42,9 @@
 
 # A Supervised Training Loop for a Perceptron and Binary Classification (Toy Data)
 - Introduction:
-  - The goal is to design a binary classifier using a generated toy dataset in PyTorch
+  - The goal is to design a binary classifier using a generated toy dataset (classifying two-dimensional points into one of two classes).
+  - Using a Preceptron algorithm, i.e, learning a single line (decision boundary or hyperplane) to discriminate the points of one class from the other. 
+  - Illustrates the steps of a classic supervise learning: constructing data, specifying a model and a loss function, setting up an optimization algorithm, updating model parameters with gradients, generating predictions. 
 - [**Supervised Training Loop using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_perceptron_loop.ipynb)
   - Model: nn.Linear()
   - Loss (Binary Cross-Entropy): nn.BCELoss()
