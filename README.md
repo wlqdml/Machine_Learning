@@ -43,7 +43,7 @@
 # A Supervised Training Loop for a Perceptron and Binary Classification (Toy Data)
 - Introduction:
   - The goal is to design a binary classifier using a generated toy dataset in PyTorch
-- [**Supervised Training Loop using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_linear_classifiers.ipynb)
+- [**Supervised Training Loop using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_perceptron_loop.ipynb)
   - Model: nn.Linear()
   - Loss (Binary Cross-Entropy): nn.BCELoss()
   - Optimizer: optim.Adam()
