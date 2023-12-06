@@ -17,7 +17,7 @@
   - [**More about creating features using TFIDF**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/tfidf.ipynb)
 - [**Feature selection (Iterative Reduction, Boruta)**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_feature_selection.ipynb)
   - [**Random noise feature test**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb): evaluate feature selection methods, according to whether they are able to identify random noise feautures.
-  - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity)
+  - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity).
 
 # A Linear Classifier for Sentiment Analysis
 - Introduction:
@@ -45,7 +45,7 @@
   - The goal is to design a binary classifier using a generated toy dataset (classifying two-dimensional points into one of two classes).
   - Using a Preceptron algorithm, i.e, learning a single line (decision boundary or hyperplane) to discriminate the points of one class from the other. 
   - Illustrates the steps of a classic supervise learning: constructing data, specifying a model and a loss function, setting up an optimization algorithm, updating model parameters with gradients, generating predictions.
-  - The codes are mostly based on PyTorch, Numpy and Matplotlib
+  - The codes are mostly based on PyTorch, Numpy and Matplotlib.
 - [**Supervised Training Loop using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_perceptron_loop.ipynb)
   - Model: nn.Linear()
   - Loss (Binary Cross-Entropy): nn.BCELoss()
