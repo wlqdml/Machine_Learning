@@ -1,4 +1,4 @@
-# Gradient Boosting Models 
+# Gradient Boosting Projects 
 ### [README](https://github.com/houzhj/Machine_Learning/blob/main/README_gradient_boosting.md)
 
 | **Projects**                | **Algorithms**           | **Data**     |
@@ -6,7 +6,7 @@
 | Credit Card Fraud Detection | gradient boosting, PCA   | Credit card transactions data|
 | Sentimential Analysis       | gradient boosting, TFIDF | IMDB reviews data |
 
-# SVM and Softmax Models
+# SVM and Softmax Projects
 ### [README](https://github.com/houzhj/Machine_Learning/blob/main/README_SVM_Softmax.md)
 
 | **Projects**                | **Algorithms**           | **Data**     |
@@ -15,7 +15,7 @@
 
 
 
-# Deep Learing Models
+# Deep Learing Projects
 ### [README](https://github.com/houzhj/Machine_Learning/blob/main/README_deep_learning.md)
 
 
