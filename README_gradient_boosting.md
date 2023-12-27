@@ -14,8 +14,8 @@
   - IMDB dataset having 50,000 movie reviews for natural language processing or Text analytics.
   - The goal is to predict the "sentiment" class which takes value "positive" or "negative".
 - Data [[Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)]
-- [**Data treatment and feature engineering**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_data.ipynb)
-  - [**More about creating features using TFIDF**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/tfidf.ipynb)
-- [**Feature selection (Iterative Reduction, Boruta)**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_feature_selection.ipynb)
-  - [**Random noise feature test**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_random_noise_test.ipynb): evaluate feature selection methods, according to whether they are able to identify random noise feautures.
-  - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity).
+- [**Data treatment and feature engineering**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/IMDB_Reviews/imdb_data.ipynb)
+  - [**More about creating features using TFIDF**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/IMDB_Reviews/tfidf.ipynb)
+- [**Feature selection (Iterative Reduction, Boruta)**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/IMDB_Reviews/imdb_feature_selection.ipynb)
+  - [**Random noise feature test**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/IMDB_Reviews/imdb_random_noise_test.ipynb): evaluate feature selection methods, according to whether they are able to identify random noise feautures.
+  - [**Boruta analysis**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/IMDB_Reviews/imdb_boruta_analysis.ipynb): Conducting Burota feature selection using different combinations of algorithms (LGB,XGB, Random forest) and type of feature importance (gain,split,cover,weight,impurity).
