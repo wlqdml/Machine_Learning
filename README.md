@@ -1,4 +1,4 @@
-# Gradient Boosting Projects 
+# Gradient Boosting Projects  
 ### [README](https://github.com/houzhj/Machine_Learning/blob/main/README_gradient_boosting.md)
 
 | **Projects**                | **Algorithms**           | **Data**     |
