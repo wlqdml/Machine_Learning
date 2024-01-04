@@ -21,8 +21,9 @@
 
 | **Projects**                | **Algorithms**           | **Data**     |
 |-----------------------------|--------------------------|--------------|
-| Sentiment Analysis | Perceptron-based algorithms |  Amazon customers review data|
-| Binary Classification | Perceptron |  Toy data|
+| Sentiment Analysis          | Perceptron-based algorithms |  Amazon reviews data|
+| Binary Classification       | Perceptron               |  Toy data    |
+| Sentiment Analysis          | Perceptron               |  Yelp reviews data|
 
 
 
