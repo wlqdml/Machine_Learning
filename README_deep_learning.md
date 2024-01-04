@@ -4,9 +4,7 @@
   - The goal is to design a classifier for sentiment analysis.
 - [**Build several linear classifiers based on three algorithms**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Amazon_Reviews/amazon_linear_classifiers.ipynb)
   - Perceptron, Average Perceptron, Pegasos.
-  - Hyperparameter tuning
-  - Feature engineering
-  - Overfitting
+  - Feature engineering / hyperparameter tuning
   - NLP data treatments (stopwords, bag of words) 
 
 # Single Layer Perceptron and Multilayer Perceptron for a Binary Classification (Toy Data)
