@@ -22,5 +22,5 @@
   - The Yelp dataset includes 56,000 reviews. This is a sample of the dataset created by Zhang, Zhao, and Lecun (2015).
 - **Notebook**: [**Perceptron classifier for sentimental analysis using Yelp reviews data**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/yelp_perceptron.ipynb)
   - Model: Perceptron
-  - Numerical representation of the text data: One-Hot Encoding with "unknown" token and restrictions to infrequent tokens.
-  - Training routine: create a mapping between the tokens and integers (vocabulary), transform a string representation a review to a vectorized representation (a vector) of the review. 
+  - NLP data treatment: Create a mapping between the tokens and integers (vocabulary); transform a string representation a review to a vectorized representation of the review (one-hot encoding with an "unknown" token and restrictions to infrequent tokens). 
+  - Training routine: Group the vectorized data points into batches; define a batch generator function; define classifier, optimizer, and loss function; track the training state (update best model and early stopping status); training iterations (updates the model parameters so that it improves); validation iterations (evaluates model performance); early-stop the training loop if criterion are met. 
