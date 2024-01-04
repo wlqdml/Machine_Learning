@@ -4,8 +4,6 @@
   - The goal is to design a classifier for sentiment analysis.
 - [**Build several linear classifiers based on three algorithms**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Amazon_Reviews/amazon_linear_classifiers.ipynb)
   - Perceptron, Average Perceptron, Pegasos.
-  - Feature engineering / hyperparameter tuning
-  - NLP data treatments (stopwords, bag of words) 
 
 # Single Layer Perceptron and Multilayer Perceptron for a Binary Classification (Toy Data)
 - Introduction:
@@ -14,6 +12,4 @@
   - Compared the performance of perceptrons with different numbers of hidden layers (other hyperparameters, such as learning rate, size of hidden layers are specified, rather than tuned), in scenarios involving linearly separable and not linearly separable toy data.
 - [**Perceptron and Multiple Layer Perceptron Models using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_mlp_main.ipynb)
   - Model: Perceptron and Multilayer Perceptron
-  - Loss (Binary Cross-Entropy): nn.CrossEntropyLoss()
-  - Optimizer: optim.Adam()
   - Visualization of the training - changes in the loss and the hyperplain (an [application](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_visualization.ipynb) of Axes.contour)
