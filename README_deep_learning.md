@@ -9,12 +9,11 @@
   - Overfitting
   - NLP data treatments (stopwords, bag of words) 
 
-
-
 # Simple Perceptron and Multiple Layer Perceptron for a Binary Classification (Toy Data)
 - Introduction:
   - The goal is to design a binary classifier using a generated toy dataset (classifying two-dimensional points into one of two classes).
-  - Using a Preceptron algorithm, i.e, learning a single line (decision boundary or hyperplane) to discriminate the points of one class from the other. 
+  - Using a preceptron-based algorithm to discriminate the points of one class from the other.
+  - Compared the performance of perceptrons with different numbers of hidden layers (other hyperparameters, such as learning rate, size of hidden layers are specified, rather than tuned), in scenarios involving linearly separable and not linearly separable toy data.
 - [**Perceptron and Multiple Layer Perceptron Models using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_mlp_main.ipynb)
   - Model: Perceptron and Multilayer Perceptron
   - Loss (Binary Cross-Entropy): nn.CrossEntropyLoss()
