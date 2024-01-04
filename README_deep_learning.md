@@ -15,7 +15,7 @@
 - Introduction:
   - The goal is to design a binary classifier using a generated toy dataset (classifying two-dimensional points into one of two classes).
   - Using a Preceptron algorithm, i.e, learning a single line (decision boundary or hyperplane) to discriminate the points of one class from the other. 
-- [**Supervised Training Loop using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_perceptron_loop.ipynb)
+- [**Perceptron and Multiple Layer Perceptron Models using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_mlp_main.ipynb)
   - Model: Perceptron and Multilayer Perceptron
   - Loss (Binary Cross-Entropy): nn.CrossEntropyLoss()
   - Optimizer: optim.Adam()
