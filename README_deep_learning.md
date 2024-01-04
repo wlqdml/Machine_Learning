@@ -9,7 +9,7 @@
   - Overfitting
   - NLP data treatments (stopwords, bag of words) 
 
-# Simple Perceptron and Multiple Layer Perceptron for a Binary Classification (Toy Data)
+# Single Layer Perceptron and Multilayer Perceptron for a Binary Classification (Toy Data)
 - Introduction:
   - The goal is to design a binary classifier using a generated toy dataset (classifying two-dimensional points into one of two classes).
   - Using a preceptron-based algorithm to discriminate the points of one class from the other.
