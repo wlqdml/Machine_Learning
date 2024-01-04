@@ -2,7 +2,7 @@
 - Introduction:
   - The training/testing datasets contains reviews written by Amazon customers for various food products. The reviews have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
   - The goal is to design a classifier for sentiment analysis.
-- [**Build several linear classifiers based on three algorithms**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/topic_linear_classifiers.ipynb)
+- [**Build several linear classifiers based on three algorithms**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Amazon_Reviews/amazon_linear_classifiers.ipynb)
   - Perceptron, Average Perceptron, Pegasos.
   - Hyperparameter tuning
   - Feature engineering
