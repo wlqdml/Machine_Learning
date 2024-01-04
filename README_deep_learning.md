@@ -1,4 +1,4 @@
-# Perceptron-based Linear Classifier for Sentiment Analysis
+# Perceptron-based Classifier for Sentiment Analysis (Amazon reviews)
 - **Introduction**:
   - The training/testing datasets contains reviews written by Amazon customers for various food products. The reviews have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively.
   - The goal is to design a classifier for sentiment analysis.
@@ -13,3 +13,14 @@
 - **Notebook**: [**Perceptron and Multiple Layer Perceptron Models using PyTorch**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_mlp_main.ipynb)
   - Model: Perceptron and Multilayer Perceptron
   - Visualization of the training - changes in the loss and the hyperplain (an [application](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_visualization.ipynb) of Axes.contour)
+
+
+# Perceptron Classifier for Sentiment Analysis (Yelp Reviews)
+- **Introduction**:
+  - The goal is to to classify whether restaurant reviews on Yelp are positive or negative using a perceptron.
+  - Described the data structures (in a NLP context) and training routine for a supervised training.
+  - The Yelp dataset includes 56,000 reviews. This is a sample of the dataset created by Zhang, Zhao, and Lecun (2015).
+- **Notebook**: [**Perceptron classifier for sentimental analysis using Yelp reviews data**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/yelp_perceptron.ipynb)
+  - Model: Perceptron
+  - Numerical representation of the text data: One-Hot Encoding with "unknown" token and restrictions to infrequent tokens.
+  - Training routine: create a mapping between the tokens and integers (vocabulary), transform a string representation a review to a vectorized representation (a vector) of the review. 
