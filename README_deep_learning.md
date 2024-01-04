@@ -27,7 +27,7 @@
 
 
 # Modeling Components
-- Training routine: [[Link](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/yelp_perceptron.ipynb)]
+- Training routine: [[Example 1](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/yelp_perceptron.ipynb)]
 - Algorithms: [[Perceptron](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_classifiers.ipynb)]
 - Loss Function
 - Visualization: [[Perceptron](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_visualization.ipynb)]
