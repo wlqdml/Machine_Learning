@@ -14,16 +14,23 @@
   - Model: Perceptron and Multilayer Perceptron
   - Visualization of the training - changes in the loss and the hyperplain (an [application](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_visualization.ipynb) of Axes.contour)
 
-
 # Perceptron Classifier for Sentiment Analysis (Yelp Reviews)
 - **Introduction**:
   - The goal is to to classify whether restaurant reviews on Yelp are positive or negative using a perceptron.
-  - Described the data structures (in a NLP context) and training routine for a supervised training.
   - The Yelp dataset includes 56,000 reviews. This is a sample of the dataset created by Zhang, Zhao, and Lecun (2015).
 - **Notebook**: [**Perceptron classifier for sentimental analysis using Yelp reviews data**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/yelp_perceptron.ipynb)
   - Model: Perceptron
   - NLP data treatment: Create a mapping (vocabulary) between the tokens and integers; transform a string representation a review to a vectorized representation of the review (one-hot encoding with an "unknown" token and restrictions to infrequent tokens). 
   - Training routine: Group the vectorized data points into batches; define a batch generator function; define classifier, optimizer, and loss function; track the training state (update best model and early stopping status); training iterations (updates the model parameters so that it improves); validation iterations (evaluates model performance); early-stop the training loop if criterion are met.
+
+# Surname Classification
+- **Introduction**:
+  - The goal is to to classify surnames to their country of origin using a MLP (Multilayer Perceptron) classifier.
+  - The surnames dataset includes 10,980 surnames from 18 different nationalities collected from different name sources on the internet.
+- **Notebook**: [**Surname Classification using MLP**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Surname_Nationality/surname_MLP.ipynb)
+  - Model: Perceptron
+  - NLP data treatment: Create a mapping (vocabulary) between the tokens and integers; transform a string representation a review to a vectorized representation of the review (one-hot encoding with an "unknown" token and restrictions to infrequent tokens). 
+  - Training routine: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**
 
 
 # Modeling Components
