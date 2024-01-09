@@ -26,17 +26,15 @@
 # Surname Classification
 - **Introduction**:
   - The goal is to to classify surnames to their country of origin using a MLP (Multilayer Perceptron) classifier.
-  - The surnames dataset includes 10,980 surnames from 18 different nationalities collected from different name sources on the internet.
+  - The surnames dataset includes 10,980 surnames from 18 different nationalities collected from different name sources on the internet. The top four classes account for 70% of the data: 27% are English, 22% are Russian, 15% are Arabic and 7% are Japanese. 
 - **Notebook**: [**Surname Classification using MLP**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Surname_Nationality/surname_MLP.ipynb)
   - Model: MLP (Multilayer Perceptron)
   - NLP data treatment: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**.
   - Training routine: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**.
 
-
 # Modeling Components
 - Training routine: [[Example 1](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/yelp_perceptron.ipynb)], [[Example 2](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Surname_Nationality/surname_MLP.ipynb)]
 - Algorithms: [[Perceptron](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_classifiers.ipynb)]
-- Loss function
 - Visualization: [[Perceptron](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Perceptron_ToyData/perceptron_visualization.ipynb)]
 - Feature engineering in NLP: [[One-hot encoding](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/class_Vectorizer.ipynb)],  [[TFIDF](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/IMDB_Reviews/tfidf.ipynb)]
 
