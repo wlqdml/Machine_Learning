@@ -24,6 +24,7 @@
 | Sentiment Analysis          | Perceptron-based algorithms |  Amazon reviews data|
 | Binary Classification       | Perceptron               |  Toy data    |
 | Sentiment Analysis          | Perceptron               |  Yelp reviews data|
+| Multiclass Classification   | Perceptron               |  Surname-Nationality data|
 
 
 
