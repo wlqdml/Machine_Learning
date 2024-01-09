@@ -28,9 +28,9 @@
   - The goal is to to classify surnames to their country of origin using a MLP (Multilayer Perceptron) classifier.
   - The surnames dataset includes 10,980 surnames from 18 different nationalities collected from different name sources on the internet.
 - **Notebook**: [**Surname Classification using MLP**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Surname_Nationality/surname_MLP.ipynb)
-  - Model: Perceptron
-  - NLP data treatment: Create a mapping (vocabulary) between the tokens and integers; transform a string representation a review to a vectorized representation of the review (one-hot encoding with an "unknown" token and restrictions to infrequent tokens). 
-  - Training routine: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**
+  - Model: MLP (Multilayer Perceptron)
+  - NLP data treatment: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**.
+  - Training routine: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**.
 
 
 # Modeling Components
