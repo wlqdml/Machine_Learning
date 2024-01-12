@@ -25,6 +25,6 @@
 | Binary Classification       | Perceptron               |  Toy data    |
 | Sentiment Analysis          | Perceptron               |  Yelp reviews data|
 | Multiclass Classification   | Perceptron               |  Surname-nationality data|
-
+| Multiclass Classification   | Convolutional neural network               |  Surname-nationality data|
 
 
