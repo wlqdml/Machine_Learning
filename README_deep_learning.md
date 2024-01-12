@@ -31,6 +31,10 @@
   - Model: MLP (Multilayer Perceptron)
   - NLP data treatment: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**.
   - Training routine: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**.
+- **Notebook**: [**Surname Classification using CNN**](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Surname_Nationality/surname_CNN.ipynb)
+  - Model: CNN (Convolutional neural network)
+  - NLP data treatment: Matrix of one-hots.
+  - Training routine: Similiar to **Perceptron Classifier for Sentiment Analysis (Yelp Reviews)**.
 
 # Modeling Components
 - Training routine: [[Example 1](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Yelp_Reviews/yelp_perceptron.ipynb)], [[Example 2](https://github.com/houzhj/Machine_Learning/blob/main/ipynb/Surname_Nationality/surname_MLP.ipynb)]
